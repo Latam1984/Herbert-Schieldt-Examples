@@ -1,4 +1,4 @@
-package lambda.example_6;
+package lambda.example_6_generic_lambda;
 
 /**
  * Created by Aleksey on 02.05.2017.
